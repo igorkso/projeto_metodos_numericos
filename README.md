@@ -1,6 +1,6 @@
 # Projeto Métodos Numéricos <h3>
 
-Este projeto trata-se da entrega para conclusão da disciplina de Métodos Numéricos do IFPB, ministrada pelo professor Paulo <>
+Este projeto trata-se da entrega para conclusão da disciplina de Métodos Numéricos do IFPB, ministrada pelo professor Paulo Ribeiro
 
 O projeto consiste na utilização de métodos de filtragem colaborativa, similaridade de cossenos e fatoração de matriz (SVD) para geração de recomendações personalizadas de filmes. 
 
